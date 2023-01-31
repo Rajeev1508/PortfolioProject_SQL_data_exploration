@@ -1,3 +1,9 @@
+/* Covid 2020-2021  Data Exploration 
+
+   Skills Used -- Converting data Types, Aggregated Function, JOINS ,CTE's , Temp Tables , Window Functions, Creating Views
+   
+*/
+
 select * 
 from PortfolioProject..[Raw_CovidDeaths(20-21)]
 where continent is Not NULL
